@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pipelines-dotnet-core", "..\pipelines-dotnet-core\pipelines-dotnet-core.csproj", "{ACC8F77B-6E5B-4C70-8291-385529E76C17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProject1", "..\XUnitTestProject1\XUnitTestProject1.csproj", "{75C7E28F-3E7D-4FF9-A364-07B85F40716E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC8F77B-6E5B-4C70-8291-385529E76C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC8F77B-6E5B-4C70-8291-385529E76C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC8F77B-6E5B-4C70-8291-385529E76C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC8F77B-6E5B-4C70-8291-385529E76C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C7E28F-3E7D-4FF9-A364-07B85F40716E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C7E28F-3E7D-4FF9-A364-07B85F40716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C7E28F-3E7D-4FF9-A364-07B85F40716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C7E28F-3E7D-4FF9-A364-07B85F40716E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DA8404-F56C-414F-A11E-0A28C5D4D7B3}
+	EndGlobalSection
+EndGlobal
